@@ -1,2 +1,0 @@
-# CARTA
-Un pequeño detalle
